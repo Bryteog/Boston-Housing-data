@@ -1,1 +1,1 @@
-# Boston-Housing-data
+- Predicting median house value from the Boston Housing dataset.
